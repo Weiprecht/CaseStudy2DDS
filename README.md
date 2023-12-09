@@ -2,7 +2,8 @@
 
 ## This employee attrition model seeks to analyze the relationship of over 30 variables on employee attrition levels in the Frito Lay Coorporation. Employee attrition is the process whereby a company loses its employees through self election, usually because of a lack of satisfaction or better opportunities elsewhere. Companies spend millions of dollars annually to hire, process, and train talent to make their workforce efficient and productive. Conversely, a talented workforce that is dedicated to a job can increase efficiency in production, reduce workhours, and invite innovation that can save a coorporation millions. Our approach to analyzing the data began with a visual analysis of the impact of certain variables on attrition. The visual analysis was then buttressed with tests using multiple regression models. We then used a stepwise analysis process to identify the most powerful and useful variables to test against attrition. For this study, we used three prediction models, a K to the nearest neighbor (KNN) model, a Naive Bayes model, and a predictive regression model. We tested these models against various variable patterns (using stepwise analysis: Forward, Backward, and Both) to identify which variables had the most statistically significant impact on Attrition rates.
 
-## Monthly Income Analysis: The Root Mean Squared Error (RMSE) for this model is 2787.3 (Statistically significant)
+## Monthly Income Analysis: 
+### *   The Root Mean Squared Error (RMSE) for this model is 2787.3 (Statistically significant)
 
 ## Employee Attrition Model:
 ### *   Accuracy - the model's ability to accurately predict Attrition is 83 percent
