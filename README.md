@@ -10,7 +10,8 @@
 ### *   Sensitivity – the model’s ability to predict true positives – 70 percent
 ### *   Specificity – the model’s ability to predict true negatives – 85.5 percent
 
-
+##   Web Page and Project Presentations:
+### *   https://weiprecht.github.io/index.html
 
 # Variable Definitions:
 ## Age: Employee age
